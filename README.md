@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a full-stack developer with experience creating robust and dynamic web applications. I specialize in both front-end and back-end development, with a strong foundation in PHP. I'm expanding my expertise by learning the MERN stack and Laravel to build scalable and modern applications.<br>🌱 I’m currently learning Laravel,MERN Stack<br>📫 How to reach me syedsami4751@gmail.com
+I'm a full-stack developer with experience creating robust and dynamic web applications. I specialize in both front-end and back-end development, with a strong foundation in PHP. I'm expanding my expertise by learning the MERN stack and Laravel to build scalable and modern applications.<br><br>
+🌱 I’m currently learning Laravel,MERN Stack<br><br>📫 How to reach me syedsami4751@gmail.com
 
 
 ## 🌐 Socials:

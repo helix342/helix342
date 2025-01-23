@@ -1,5 +1,5 @@
 <h1>Hi there! 👋 </h1>
-<h3 align="center">I'm a full-stack developer with experience in creating robust and dynamic web applications. I specialize in both front-end and back-end development, with a strong foundation in PHP. Currently, I'm expanding my expertise by learning the MERN stack and Laravel to build scalable and modern applications.</h3>
+<h3>I'm a full-stack developer with experience in creating robust and dynamic web applications. I specialize in both front-end and back-end development, with a strong foundation in PHP. Currently, I'm expanding my expertise by learning the MERN stack and Laravel to build scalable and modern applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helix342&label=Profile%20views&color=0e75b6&style=flat" alt="helix342" /> </p>
 
